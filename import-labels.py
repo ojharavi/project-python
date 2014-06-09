@@ -14,10 +14,10 @@
 #                       Leave blank if just for your personal account.
  
 ### CONFIG
-source_repo_name = 'test'
-username = 'ojharavi'
-password = 'GetSetGo@72'
-company = ''
+source_repo_name = 'name_source_repo'
+username = 'username_@_git'
+password = 'pass_@_git'
+company = 'company_name'
 ####
  
 import json
